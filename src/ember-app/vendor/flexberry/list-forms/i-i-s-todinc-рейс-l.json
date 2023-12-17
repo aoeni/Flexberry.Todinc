@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-todinc-рейс-e",
+  "editForm": "i-i-s-todinc-рейс-e",
+  "external": false,
+  "caption": "Рейс",
+  "name": "IISTodincРейсL",
+  "className": "РейсL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-todinc-рейс",
+      "modelProjection": "РейсL"
+    }
+  ]
+}

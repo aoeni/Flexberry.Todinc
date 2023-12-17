@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-todinc-посад-талон-e",
+  "editForm": "i-i-s-todinc-посад-талон-e",
+  "external": false,
+  "caption": "Посадочный талон",
+  "name": "IISTodincПосадТалонL",
+  "className": "ПосадТалонL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-todinc-посад-талон",
+      "modelProjection": "ПосадТалонL"
+    }
+  ]
+}

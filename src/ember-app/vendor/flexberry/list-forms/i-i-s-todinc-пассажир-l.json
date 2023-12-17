@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-todinc-пассажир-e",
+  "editForm": "i-i-s-todinc-пассажир-e",
+  "external": false,
+  "caption": "Пассажир",
+  "name": "IISTodincПассажирL",
+  "className": "ПассажирL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-todinc-пассажир",
+      "modelProjection": "ПассажирL"
+    }
+  ]
+}

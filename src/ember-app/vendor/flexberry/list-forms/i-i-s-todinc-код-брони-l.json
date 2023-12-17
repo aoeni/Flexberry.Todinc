@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-todinc-код-брони-e",
+  "editForm": "i-i-s-todinc-код-брони-e",
+  "external": false,
+  "caption": "Код бронирования",
+  "name": "IISTodincКодБрониL",
+  "className": "КодБрониL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-todinc-код-брони",
+      "modelProjection": "КодБрониL"
+    }
+  ]
+}

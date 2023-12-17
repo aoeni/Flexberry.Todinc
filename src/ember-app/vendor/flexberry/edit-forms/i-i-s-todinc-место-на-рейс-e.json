@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Место на рейс",
+  "name": "IISTodincМестоНаРейсE",
+  "className": "МестоНаРейсE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-todinc-место-на-рейс",
+      "modelProjection": "МестоНаРейсE"
+    }
+  ]
+}
