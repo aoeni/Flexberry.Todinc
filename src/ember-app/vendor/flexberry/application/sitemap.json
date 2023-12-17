@@ -18,14 +18,14 @@
         {
           "link": "i-i-s-todinc-посад-талон-l",
           "menuName": null,
-          "caption": "Посад талон",
+          "caption": "Посадочный талон",
           "title": "",
           "children": null
         },
         {
           "link": "i-i-s-todinc-код-брони-l",
           "menuName": null,
-          "caption": "Код брони",
+          "caption": "Код бронирования",
           "title": "",
           "children": null
         },

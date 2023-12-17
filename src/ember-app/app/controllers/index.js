@@ -22,7 +22,7 @@ export default Controller.extend({
             link: 'i-i-s-todinc-рейс-l',
             caption: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-рейс-l.caption'),
             title: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-рейс-l.title'),
-            icon: 'phone',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-todinc-посад-талон-l',
@@ -34,19 +34,19 @@ export default Controller.extend({
             link: 'i-i-s-todinc-код-брони-l',
             caption: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-код-брони-l.caption'),
             title: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-код-брони-l.title'),
-            icon: 'chart line',
+            icon: 'chart bar',
             children: null
           }, {
             link: 'i-i-s-todinc-место-на-рейс-l',
             caption: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-место-на-рейс-l.caption'),
             title: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-место-на-рейс-l.title'),
-            icon: 'archive',
+            icon: 'paperclip',
             children: null
           }, {
             link: 'i-i-s-todinc-пассажир-l',
             caption: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-пассажир-l.caption'),
             title: i18n.t('forms.application.sitemap.todinc.i-i-s-todinc-пассажир-l.title'),
-            icon: 'edit',
+            icon: 'tags',
             children: null
           }]
         }
